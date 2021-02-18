@@ -1,0 +1,1 @@
+Demonstrates https://github.com/mapstruct/mapstruct/issues/2359[Wrongly generated Mapper for nested fields · Issue #2359]
